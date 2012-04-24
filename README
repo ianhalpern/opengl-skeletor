@@ -1,0 +1,13 @@
+Final project for CS537 - Interactive Computer Graphics. This program creates a basic 3D world using opengl, bmp textures, and md2 models. The user can control the pitch, roll, and distance of the camera from a virtual point in space. The user can also control the x, y position of the point. This creates a 3rd person style view. In the first part, the "Travel Component" the user has an option to toggle between first person and 3rd person. This basically just moves the virtual point's x coordinate a distance of 0 from the "screen".
+
+About
+
+	Created by Ian Halpern
+	Copyright (c) 2007 Ian Halpern
+	License: GNU GPL v3
+	Contact: ian@ian-halpern.com
+
+Requirements:
+
+* freeglut3-dev
+* libglew1.6-dev
